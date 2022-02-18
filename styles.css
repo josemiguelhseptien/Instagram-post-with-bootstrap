@@ -1,0 +1,15 @@
+.nav-item :active{
+    background: gray;
+}
+.nav-item :hover{
+    color:rgb(68, 68, 68);
+    background: rgba(128, 128, 128, 0.425)
+}
+
+#post-grid-views {
+    color:gray;
+}
+
+img{
+    border:none;
+}
